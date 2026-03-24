@@ -57,7 +57,7 @@
       " "
     ],
     "nospacing": 1,
-    "format-muted": " ",
+    "format-muted": " ",
     "on-click": "pavucontrol",
     "tooltip": false
   },
